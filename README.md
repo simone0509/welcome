@@ -1,7 +1,7 @@
 <h1 align="center">Simone La Porta</h1>
 <p align="center">
   Analyst · Data &amp; AI Ethics @ Deloitte Advisory<br>
-  ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist
+  Certified in AI Solutions Architecture · ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@ $ whoami
  WORK    agentic AI development: GenAI platform guardrails ·
          multi-agent codebase review · trustworthy AI · cybersecurity
  GOAL    LLM and agentic systems, secure by design
- CERTS   ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist (EPICODE)
+ CERTS   AI Solutions Architecture (ProfessionAI, 2026) ·
+         ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist (EPICODE)
  EDU     MSc Astrophysics & Cosmology · University of Bologna
- NOW     AI Solutions Architect master @ ProfessionAI
-         00-10 delivered · final exam ahead
+ NOW     cloud agentic platforms: Azure AI Foundry · AWS Bedrock
 ────────────────────────────────────────────────────────────────────────
 ```
 
@@ -26,8 +26,8 @@ $ whoami
 
 My work at Deloitte has been shifting from assessing AI systems to building
 them. Today I develop agentic AI solutions on a proprietary GenAI platform,
-where I designed the risk methodology and the guardrails applied to every
-agent and app it ships, and I co-develop a multi-agent system that reviews
+where I designed the risk methodology and the guardrails applied to agents
+and apps built on it, and I co-develop a multi-agent system that reviews
 agentic codebases by combining static analysis with LLM-based evaluation of
 governance, compliance and risk. The rest of my time goes to trustworthy-AI
 implementation (EU AI Act, ISO/IEC 42001, NIST AI RMF) and cybersecurity:
@@ -61,8 +61,9 @@ replays real captured triages across the full SSVC ladder, with a
 One hands-on project per master module: RAG for a company knowledge base,
 two agentic capstones, multi-cloud architecture, ML deployment, an
 edge-cloud video analytics design study, an AI security risk assessment,
-an AI Act governance framework for fintech credit scoring. All capstones
-(00-10) delivered, final exam ahead; full progress log in the repo README.
+an AI Act governance framework for fintech credit scoring. Program
+completed 2026-07: 400 hours, 11 capstone projects, professional
+certification in AI Solutions Architecture.
 
 ### [`lensing`](https://github.com/Shurtug4l/lensing)
 
