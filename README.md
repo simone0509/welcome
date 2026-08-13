@@ -1,7 +1,7 @@
 <h1 align="center">Simone La Porta</h1>
 <p align="center">
   Analyst · Data &amp; AI Ethics @ Deloitte Advisory<br>
-  Certified in AI Solutions Architecture · ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist
+  Certified: Azure AI Apps and Agents Developer Associate · AI Solutions Architecture · ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist
 </p>
 
 <p align="center">
@@ -15,10 +15,11 @@ $ whoami
  WORK    agentic AI development: GenAI platform guardrails ·
          multi-agent codebase review · trustworthy AI · cybersecurity
  GOAL    LLM and agentic systems, secure by design
- CERTS   AI Solutions Architecture (ProfessionAI, 2026) ·
+ CERTS   Azure AI Apps and Agents Developer Associate (Microsoft) ·
+         AI Solutions Architecture (ProfessionAI, 2026) ·
          ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist (EPICODE)
  EDU     MSc Astrophysics & Cosmology · University of Bologna
- NOW     cloud agentic platforms: Azure AI Foundry · AWS Bedrock
+ NOW     cloud agentic platforms: AWS Bedrock · Google ADK
 ────────────────────────────────────────────────────────────────────────
 ```
 
